@@ -1,1 +1,1 @@
-# Emotions Detector Using VGG16(Deep Learning Project)
+# Face and Emotions Detector Using VGG16(Deep Learning Project)
